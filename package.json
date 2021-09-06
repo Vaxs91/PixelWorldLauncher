@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
-  "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "name": "PixelLauncher",
+  "version": "1.0.0",
+  "productName": "VAXS RSB",
+  "description": "Launcher de Pixel World",
+  "author": "VAXS RSB",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
@@ -45,6 +45,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/Vaxs91/PixelWorldLauncher"
   }
 }
